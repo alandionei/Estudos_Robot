@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 4.1.3 (Python 3.10.2 on win32)" generated="20220118 23:50:22.333" rpa="false" schemaversion="2">
+<suite id="s1" name="Test" source="C:\qaninja\robot\test.robot">
+<test id="s1-t1" name="deve retornar mensagem de boas vindas">
+<kw name="Welcome" library="app">
+<arg>Alan</arg>
+<status status="PASS" starttime="20220118 23:50:22.436" endtime="20220118 23:50:22.436"/>
+</kw>
+<status status="PASS" starttime="20220118 23:50:22.435" endtime="20220118 23:50:22.437"/>
+</test>
+<status status="PASS" starttime="20220118 23:50:22.335" endtime="20220118 23:50:22.442"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Test">Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
